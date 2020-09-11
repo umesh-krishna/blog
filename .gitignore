@@ -6,3 +6,8 @@ migrations/
 #node
 frontend/ui/node_modeules/
 
+#IDE
+.idea/
+
+#virtual env
+venv/
