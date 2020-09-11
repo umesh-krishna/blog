@@ -1,0 +1,8 @@
+
+# Django migrations
+migrations/
+!migrations/__init__.py
+
+#node
+frontend/ui/node_modeules/
+
